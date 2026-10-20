@@ -122,3 +122,7 @@ HACS carga un único fichero JS por repositorio, así que el flujo es:
 1. Crea el componente en `src/<nombre>.js`.
 2. Ejecuta `node scripts/build.js` para regenerar `dist/domotech-ha-custom-components.js`.
 3. Haz commit de `src/` y de `dist/`, y publica una release en GitHub para que HACS avise de la actualización.
+
+## Licencia
+
+[MIT](LICENSE) © Domotech Solutions S.L.
